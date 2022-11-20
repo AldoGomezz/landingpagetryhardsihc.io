@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "title": "FIT FUD",
+    "paragraph": "Aquellos que piensan que no tienen tiempo para una alimentación saludable tarde o temprano encontrarán tiempo para la enfermedad"
+  },
+  "Aplication": {
+    "paragraph": "🍴 Planes Nutricionales relacionados a tus necesidades",
+    "paragraph1": "⏳ Contador de calorías",
+    "paragraph2": "🍇 Diversos tipos de alimentos...y más!",
+    "paragraph3": "🍑 Desayunos, almuerzos y cenas basados en tus preferencias alimenticias y requerimientos"
+  },
+  "Services": [
+    {
+      "icon": "fa fa-calendar",
+      "name": "Plan Nutricional",
+      "text": "Fitfud construirá desayunos, almuerzos y cenas para cumplir tu objetivo"
+    },
+    {
+      "icon": "fa fa-repeat",
+      "name": "Repetir comidas",
+      "text": "¿No te gusta alguna comida? Podrás calcular otra al instante"
+    },
+    {
+      "icon": "fa fa-ban",
+      "name": "Anuncios",
+      "text": "Disfruta FitFud sin interrupciones"
+    },
+    {
+      "icon": "fa fa-cutlery",
+      "name": "Número de comidas",
+      "text": "Seleccione entre 2, 3, 4 o 5 comidas al día"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Progreso",
+      "text": "En FitFud podrás compartir tu progreso en las redes sociales o con otros usuarios activos"
+    },
+    {
+      "icon": "fa fa-bullseye",
+      "name": "Logros y puntuación",
+      "text": "En FitFud podrás realizar desafíos que podrás cambiar por beneficios"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/1.png",
+      "text": "\"El objetivo principal de Wildor se basa en que quiere mejorar su marca de lanzamiento y así poder ganar títulos. Wildor también señala que el tipo de alimentación es fundamental para el rendimiento en el deporte que practica. Por ejemplo, si se consume poco carbohidratos no puede rendir muy bien, y si se consume demasiado suele sentirse lento.Agregando a lo anterior, el menciona que ha ido al nutricionista,y que ha probado algunas aplicaciones de dieta. Sin embargo, las aplicaciones no cumplían con las expectativas que él tenía por distintas razones.\"",
+      "name": "Wildor Villalobos",
+      "deporte": "Lanzamiento de bala"
+    },
+    {
+      "img": "img/testimonials/2.png",
+      "text": "\"Él practica deportes para poder soltar la energía extra de manera sana y superación personal.Ha intentado probar nutricionistas, ya que te dan una rutina, cronograma, pero actualmente trabaja y los tiempos no se prestan para seguirla, por lo que opta por comidas más simples y fáciles de hacer. Considera que alguien que busque un nivel deportivo de alto rendimiento si necesita una rutina más estricta.\"",
+      "name": "Luis Alejandro",
+      "deporte": "Taekwondo"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.png",
+      "nombre": "Eduardo Caballero",
+      "carrera": "Ciencias de la Computación"
+    },
+    {
+      "img": "img/team/2.jpg",
+      "nombre": "Enzo Camargo",
+      "carrera": "Ciencias de la Computación"
+    },
+    {
+      "img": "img/team/3.png",
+      "nombre": "Hamill Cavero",
+      "carrera": "Ciencias de la Computación"
+    },
+    {
+      "img": "img/team/4.png",
+      "nombre": "Aldo Gómez",
+      "carrera": "Ciencias de la Computación"
+    },
+    {
+      "img": "img/team/5.png",
+      "nombre": "Jorge Anco",
+      "carrera": "Ciencias de la Computación"
+    }
+  ]
+}
